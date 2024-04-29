@@ -5,8 +5,18 @@
 - 👯 I’m looking to collaborate on small projects to learn the fundamentals.
 - 🤔 I’m looking for help with standing confidently in the abyss of coding.
 
-- 😄 Pronouns: a cat / the cat (just kidding, it's he / him), nothing special.
+- 🐈 Pronouns: cat (just kidding, it's he / him), nothing special.
 
 - 📫 EMail: absolutelynotacat@gmail.com
+
+## Interests
+
+- 💻 Languages: C++, Java, Assembler
+- 📖 Linguistic ones: English, Russian
+
+- ☕ Hobbies: Drawing, Composing, Reading, Writing
+- 🧰 Handyman, engineer of some kind
+
+- ☔ Perfectionist, rain lover
 
 Sincerely yours, Kira Egen.
