@@ -6,7 +6,7 @@
 - 🔍 Figuring out how to stand confidently on the soil of coding.
 
 ### Interests
-- 💻 Languages: C++, Java, Assembler (basics)
+- 💻 Languages: C++, Java, Bash, Assembler (basics)
 - 📖 Linguistic: English, Russian
 - 🧰 Features: Handyman, Engineer of some kind
 - 💾 Wisdom: Processor architecture
