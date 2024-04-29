@@ -10,13 +10,12 @@
 - 📫 EMail: absolutelynotacat@gmail.com
 
 ## Interests
-
 - 💻 Languages: C++, Java, Assembler
 - 📖 Linguistic ones: English, Russian
-
+⠀
 - ☕ Hobbies: Drawing, Composing, Reading, Writing
 - 🧰 Handyman, engineer of some kind
-
+⠀ 
 - ☔ Perfectionist, rain lover
 
 Sincerely yours, Kira Egen.
