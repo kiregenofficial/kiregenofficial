@@ -1,7 +1,7 @@
 ### About me
-- 🌱 Learning how to work on GitHub, Docker, et cetera
+- 🌱 Learning how to work with GitHub, Docker, et cetera
 - 🔭 On my way to become a senior programmer and a cultural figure
-- 💼 Would love to collaborate to learn the fundamentals
+- 💼 Would love to collaborate to learn the fundamentals together
 - 🔍 Figuring out how to stand confidently on the soil of coding
 - 💬 Ask me about interplanetary biological systems and greenhouses
 
@@ -20,13 +20,14 @@
 - 🐍 Mildly hate Python, reason remains unknown
 - 📠 Low social skills, high need for communication
 
-### Interesting
-- 📚 Self-taught Word & Excel expert
-- 📦 Perfect cardboard boxes expert
+### Facts
+- 📚 Self-taught Microsoft Word & Excel expert
+- 💽 I use PowerPoint instead of Illustrator
+- 📦 Perfect cardboard boxes folding expert
+- 🧀 I learned lots of interesting things...
+- 🪤 ...but I'm too lazy to use this knowledge
 - ⏳ I played Minecraft for 11 years
 - ⌛ ...but never killed the dragon
-- 🧀 I learned lots of things...
-- 🪤 ...but I hardly use this knowledge
 
 ### Misc info
 - 🐈 Pronouns: cat (just kidding, it's he / him), nothing special
