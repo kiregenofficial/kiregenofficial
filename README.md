@@ -9,4 +9,4 @@
 
 - 📫 EMail: absolutelynotacat@gmail.com
 
-- Sincerely yours, Kira Egen.
+Sincerely yours, Kira Egen.
