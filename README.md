@@ -22,7 +22,7 @@
 
 ### Facts
 - 📚 Self-taught Microsoft Word & Excel expert
-- 💽 I use PowerPoint instead of Illustrator
+- 💽 I use PowerPoint instead of an Illustrator
 - 📦 Perfect cardboard boxes folding expert
 - 🧀 I learned lots of interesting things...
 - 🪤 ...but I'm too lazy to use this knowledge
