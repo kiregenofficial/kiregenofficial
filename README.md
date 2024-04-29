@@ -1,21 +1,21 @@
-## About me (yea it's a standard template)
+### About me
 
-- 🔭 I’m currently trying to understand how to become a real programmer.
-- 🌱 I’m currently learning how to work on GitHub and how to code properly.
-- 👯 I’m looking to collaborate on small projects to learn the fundamentals.
-- 🤔 I’m looking for help with standing confidently in the abyss of coding.
+- 🌱 Learning how to work on GitHub.
+- 🔭 On my way to become a senior programmer.
+- 💼 Would love to collaborate to learn the fundamentals.
+- 🔍 Figuring out how to stand confidently on the soil of coding.
 
+### Interests
+- 💻 Languages: C++, Java, Assembler (basics)
+- 📖 Linguistic: English, Russian
+- 🧰 Features: Handyman, Engineer of some kind
+- ☕ Hobbies: Drawing, Composing, Reading, Writing
+- ☔ Other: Perfectionist, Rain lover
+
+### 
+
+### Misc info
 - 🐈 Pronouns: cat (just kidding, it's he / him), nothing special.
-
 - 📫 EMail: absolutelynotacat@gmail.com
 
-## Interests
-- 💻 Languages: C++, Java, Assembler
-- 📖 Linguistic ones: English, Russian
-⠀
-- ☕ Hobbies: Drawing, Composing, Reading, Writing
-- 🧰 Handyman, engineer of some kind
-⠀ 
-- ☔ Perfectionist, rain lover
-
-Sincerely yours, Kira Egen.
+### Sincerely yours, Kira Egen.
