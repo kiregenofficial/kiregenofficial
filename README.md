@@ -9,7 +9,7 @@
 - 💻 Languages: C++, Java, Bash, Assembler (basics)
 - 📖 Linguistic: English, Russian
 - 🧰 Features: Handyman, Engineer of some kind
-- 💾 Wisdom: Processor architecture
+- 💾 Wisdom: CPU architecture, system administration
 - ☕ Hobbies: Drawing, Composing, Reading, Writing
 - 🎮 Gaming: Enthusiast oneself - In a good way
 - ☔ Other: Perfectionist, Rain lover, Caffeine addict
