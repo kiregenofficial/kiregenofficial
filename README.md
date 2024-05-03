@@ -1,5 +1,5 @@
 ## About me
-- 🌱 Learning how to work with GitHub, Docker, et cetera
+- 🌱 Learning how to work with GitHub, CMake, Docker, et cetera
 - 🔭 On my way to become a senior programmer and a cultural figure
 - 💼 Would love to collaborate to learn the fundamentals together
 - 🔍 Figuring out how to stand confidently on the soil of coding
