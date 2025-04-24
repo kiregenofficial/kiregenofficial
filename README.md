@@ -1,12 +1,13 @@
 ## About me
-- 💬 Ask me about interplanetary biological systems and greenhouses
+- 📺 My interests change more often than the sun and moon themselves.
+- 🧰 Handyman, Engineer of some kind
 
 ### Interests
-- 💻 Languages: C++, Java, Bash, Assembler (basics)
-- 📖 Linguistic: English, Russian
-- 🧰 Features: Handyman, Engineer of some kind
-- 💾 Wisdom: CPU architecture, system administration, Eurorack synthesizers
-- 🎮 Gaming: Enthusiast oneself - In a good way
+- 💻 C++, Java
+- 🎹 Eurorack synthesizers enthusiast (9/10)
+- 💾 CPU architect (6/10)
+- 🎨 Artist (4/10)
   
 ### Misc info
+- 📖 English, Russian
 - 📫 EMail: absolutelynotacat@gmail.com
